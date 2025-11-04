@@ -1,0 +1,68 @@
+<!-- Language Switcher 语言切换器 -->
+<div class="language-switcher">
+  {% if page.url == "/" or page.url == "/index.html" %}
+    <span class="lang-link active">中文</span>
+    <span class="separator">|</span>
+    <a href="{{ site.baseurl }}/en/" class="lang-link">English</a>
+  {% elsif page.url == "/en/" or page.url == "/en/index.html" %}
+    <a href="{{ site.baseurl }}/" class="lang-link">中文</a>
+    <span class="separator">|</span>
+    <span class="lang-link active">English</span>
+  {% else %}
+    <a href="{{ site.baseurl }}/" class="lang-link">中文</a>
+    <span class="separator">|</span>
+    <a href="{{ site.baseurl }}/en/" class="lang-link">English</a>
+  {% endif %}
+</div>
+
+<style>
+.language-switcher {
+  text-align: right;
+  padding: 12px 0;
+  margin-bottom: 20px;
+  margin-top: -10px;
+  font-size: 14px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.language-switcher .lang-link {
+  color: #52adc8;
+  text-decoration: none;
+  padding: 6px 12px;
+  transition: all 0.3s ease;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.language-switcher .lang-link:hover {
+  background-color: #f0f8ff;
+  color: #2e7d9a;
+}
+
+.language-switcher .lang-link.active {
+  color: #2e7d9a;
+  font-weight: bold;
+  background-color: #e6f3f7;
+}
+
+.language-switcher .separator {
+  color: #d1d5da;
+  margin: 0 8px;
+  font-weight: 300;
+}
+
+/* Mobile responsive - 移动端响应式 */
+@media (max-width: 768px) {
+  .language-switcher {
+    text-align: center;
+    padding: 10px 0;
+    margin-bottom: 15px;
+    font-size: 13px;
+  }
+  
+  .language-switcher .lang-link {
+    padding: 5px 10px;
+  }
+}
+</style>
+
