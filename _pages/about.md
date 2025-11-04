@@ -31,7 +31,7 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU.svg" width="23pt"></a> 东南大学 经济与管理学院, 江苏南京, 硕士 
+- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.svg" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> 东南大学 经济与管理学院, 江苏南京, 硕士 
 
  
 <span class='anchor' id='-lwzl'></span>
