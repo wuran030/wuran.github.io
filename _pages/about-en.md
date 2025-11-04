@@ -31,7 +31,7 @@ My research interests include:
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-- *2020.09 - 2023.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Southeast University, School of Economics and Management, Nanjing, Jiangsu, Master's Degree
+- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img class="svg" src="/images/SEU.svg" width="23pt"></a> Southeast University, School of Economics and Management, Nanjing, Jiangsu, Master's Degree
 
  
 <span class='anchor' id='publications'></span>
