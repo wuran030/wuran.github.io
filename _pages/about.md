@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 大家好，我目前就读于东南大学能源与环境专业，攻读碳中和科学与技术博士学位。目前我以第一作者在Annals of Operations Research、IEEE Transactions on Engineering Management、Nonlinear Dynamics、Journal of Environmental Management、Chaos, Solitons & Fractals、Journal of Forecasting、International Review of Economics & Finance等期刊发表论文十余篇。并且参加多项国家自然科学基金、江苏省社科（重大）基金等项目。
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
 - 平台经济

@@ -18,7 +18,6 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello everyone! I am currently pursuing a Ph.D. degree in Carbon Neutrality Science and Technology in the major of Energy and Environment at Southeast University. As first author, I have published more than ten papers in journals such as Annals of Operations Research, IEEE Transactions on Engineering Management, Nonlinear Dynamics, Journal of Environmental Management, Chaos, Solitons & Fractals, Journal of Forecasting, and International Review of Economics & Finance. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and the Jiangsu Provincial Social Science Foundation (Major).
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 My research interests include:
 - Platform Economy
