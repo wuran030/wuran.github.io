@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello everyone! I am currently pursuing a Ph.D. degree in Carbon Neutrality Science and Technology in the major of Energy and Environment at Southeast University. As first author, I have published more than ten papers in journals such as Annals of Operations Research, IEEE Transactions on Engineering Management, Nonlinear Dynamics, Journal of Environmental Management, Chaos, Solitons & Fractals, Journal of Forecasting, and International Review of Economics & Finance. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and the Jiangsu Provincial Social Science Foundation (Major).
+Hello everyone,
+
+I am currently pursuing a PhD in Carbon Neutrality Science and Technology at the School of Energy and Environment, Southeast University. As the first author, I have published over ten papers in prestigious journals, including *Annals of Operations Research*, *IEEE Transactions on Engineering Management*, *Nonlinear Dynamics*, *Journal of Environmental Management*, *Chaos, Solitons & Fractals*, *Journal of Forecasting*, and *International Review of Economics & Finance*. Additionally, I have participated in multiple projects funded by the National Natural Science Foundation of China and major grants from the Jiangsu Provincial Social Science Foundation.
 
 My research interests include:
 - Platform Economy
@@ -40,6 +42,7 @@ My research interests include:
 ### English Publications
 ---
 
+-`Ran Wu`, Hongjun Zeng. A New Paradigm for Gold Price Forecasting: ASSA-Improved NSTformer in a WTC-LSTM Framework Integrating Multiple Uncertainty. Annals of Operations Research, 2025, SSCI Q1, ABS 3*, FMS B.
 - `Ran Wu`, Ming Li*, Impact of Blockchain Adoption on Carbon Reduction in Sustainable Supply Chains under the Carbon Trading Market: A Chaos and Bifurcation Perspective. Nonlinear Dynamics, 2025. IF=4.8, SCI Q1.
 - `Ran Wu`, Forecasting the European Union allowance price tail risk with the integrated deep belief and mixture density networks. Chaos, Solitons & Fractals, 2025. IF=45.4, Top Journal, SCI Q1.
 - `Ran Wu`, MZ Abedin, Hongjun Zeng, Brain Lucey. European Union Allowance price forecasting with Multidimensional Uncertainties: A TCN‐iTransformer Approach for Interval Estimation. Journal of Forecasting, 2025, SSCI Q1, ABS2*, FMS C.
@@ -55,8 +58,8 @@ My research interests include:
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors and Awards
-- *2022* Won `Silver Medal` in ACM/ICPC Asia Regional Contest (Nanjing)
-- *2020* Won `Second Prize` in National College Students Mathematical Modeling Contest
+- *2022* ACM/ICPC Asia Regional Contest (Nanjing)  `Silver Medal`
+- *2020* China College Students Mathematical Modeling Contest `Second Prize`
 
 <span class='anchor' id='conferences'></span>
 
@@ -67,7 +70,7 @@ My research interests include:
 
 # 💻 Work Experience & Internships
 - *2022.12 - 2025.2*, Jiangsu Telecom, Algorithm Engineer, Nanjing, Jiangsu
-- *2022.5 - 2022.9*, Meituan Select, Big Data Development Engineer, Beijing
+- *2022.5 - 2022.9*, Meituan, Big Data Development Engineer, Beijing
 - *2017.9 - 2018.3*, TrendMicro, Automation Test Intern, Nanjing, Jiangsu
 - *2016.6 - 2017.1*, Huawei Nanjing Research Institute, R&D Intern, Nanjing, Jiangsu
 
