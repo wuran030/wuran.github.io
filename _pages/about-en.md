@@ -30,7 +30,7 @@ My research interests include:
 <span class='anchor' id='education'></span>
 
 # 🎓 Education
-- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.svg" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> Southeast University, School of Economics and Management, Nanjing, Jiangsu, Master's Degree
+- *2020.09 - 2023.06*, <a href="https://www.seu.edu.cn/"><img src="/images/SEU.png" width="23" height="23" alt="SEU" style="vertical-align: middle;"></a> Southeast University, School of Economics and Management, Nanjing, Jiangsu, Master's Degree
 
  
 <span class='anchor' id='publications'></span>
