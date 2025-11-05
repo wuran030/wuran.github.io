@@ -84,6 +84,6 @@ My research interests include:
 # 💻 Work Experience & Internships
 - *2022.12 - 2025.2*, Jiangsu Telecom, Algorithm Engineer, Nanjing, Jiangsu
 - *2022.5 - 2022.9*, Meituan, Big Data Development Engineer, Beijing
-- *2017.9 - 2018.3*, TrendMicro, Automation Test Intern, Nanjing, Jiangsu
-- *2016.6 - 2017.1*, Huawei Nanjing Research Institute, R&D Intern, Nanjing, Jiangsu
+- *2021.9 - 2022.3*, TrendMicro, Automation Test Intern, Nanjing, Jiangsu
+- *2020.6 - 2020.9*, Huawei Nanjing Research Institute, R&D Intern, Nanjing, Jiangsu
 
